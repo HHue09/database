@@ -27,9 +27,9 @@ public class Main {
         }
 
         System.out.println("Thông tin đăng ký:");
-        System.out.println("Tên: " + name);
-        System.out.println("Tuổi: " + age);
+        System.out.println("Tên của bạn là: " + name);
+        System.out.println("Tuổi của bạn là: " + age);
         System.out.println("Môn học: " + subject);
-        System.out.println("Email: " + email);
+        System.out.println("Email của bạn là: " + email);
     }
 }
